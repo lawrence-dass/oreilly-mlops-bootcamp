@@ -10,6 +10,7 @@ on:
   pull_request:
     branches:
       - main
+      - dev
     paths:
       - 'Day 1/lesson-6-ci-cd/**'
 
